@@ -1,7 +1,7 @@
 ---
 title: Единицы размеров в CSS
 
-image: //css.yoksel.ru/assets/img/articles/size-units/preview.png
+image: //yoksel.github.io/assets/img/articles/size-units/preview.png
 
 tags: [fonts, units, text]
 

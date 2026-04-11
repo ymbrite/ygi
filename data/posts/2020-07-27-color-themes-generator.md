@@ -1,7 +1,7 @@
 ---
 title: 'Генератор цветовых тем'
 
-image: //css.yoksel.ru/assets/img/articles/color-themes-generator/preview.png
+image: //yoksel.github.io/assets/img/articles/color-themes-generator/preview.png
 
 tags: [tools]
 

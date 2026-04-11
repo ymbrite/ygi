@@ -1,7 +1,7 @@
 ---
 title: Адаптивное видео с помощью встроенных математических функций CSS
 
-image: //css.yoksel.ru/assets/img/articles/adaptive-video-with-css-math/preview.jpg
+image: //yoksel.github.io/assets/img/articles/adaptive-video-with-css-math/preview.jpg
 
 tags: [css-math]
 

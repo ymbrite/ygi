@@ -1,6 +1,6 @@
 ---
 title: Вариативные шрифты
-image: '//css.yoksel.ru/assets/img/previews/variable-fonts.png'
+image: '//yoksel.github.io/assets/img/previews/variable-fonts.png'
 description: 'Вариативные шрифты — это новая страница в веб-типографике. Они уже достаточно хорошо поддерживаются браузерами, так что можно заняться изучением их возможностей и подготовиться к использованию в реальной жизни.'
 
 tags: ['fonts']

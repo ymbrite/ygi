@@ -1,7 +1,7 @@
 ---
 title: Недоступность в картинках
 
-image: //css.yoksel.ru/assets/img/articles/inaccessibility/preview.png
+image: //yoksel.github.io/assets/img/articles/inaccessibility/preview.png
 
 tags: [a11y]
 
